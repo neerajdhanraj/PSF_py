@@ -16,7 +16,9 @@ Description: Pattern Sequence Based Forecasting (PSF) takes univariate
     This algorithm forecasts the behavior of time series
     based on similarity of pattern sequences. Initially, clustering is done with the
     labeling of samples from database. The labels associated with samples are then
-    used for forecasting the future behaviour of time series data.
+    used for forecasting the future behaviour of time series data. 
+    The similar package is available in R (https://CRAN.R-project.org/package=PSF) 
+    and its details are avaialable at https://journal.r-project.org/archive/2017/RJ-2017-021/index.html. 
 
 License: GPL (>= 2)
 
